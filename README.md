@@ -1,25 +1,59 @@
 ![logo](https://github.com/RACHITRPLV/RACHITCHAUDHARY/blob/main/banner.jpg)
-<h1 align="center">HI, I AM RACHIT CHAUDHARY </h1>
-<h3 align="center">🌱 Data Science Engineer | Python Enthusiast | Machine Learning Explorer</h3>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rachit+Chaudhary..;Data+Science+Engineer;Python+Enthusiast;Machine+Learning+Explorer;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+    <h3 align="center">🌱 Data Science Engineer | Python Enthusiast | Machine Learning Explorer | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitrplv&label=Profile%20views&color=0e75b6&style=flat" alt="rachitrplv" /> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+ 
+- 🔭 I have successfully completed my Apprenticeship as a ***Data Science Engineer*** at **StarAgile**
 
-<p align="left"> <a href="https://twitter.com/rachitchaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/rachitchaudhary?logo=twitter&style=for-the-badge" alt="rachitchaudhary" /></a> </p>
+- 💬 Ask me about **Python,  DataScience,Machine Learning & Data Analyst**
 
-- 🔭 I have worked on
-- PROJECT 1 **Capstone World Cup 2019 data analysis**
+  
+## 🖥️ Technical Skills: 
+<p align="left">  
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="panda" width="65" height="65"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="numpy" width="65" height="65"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="git" width="65" height="65"/>
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> 
+   </a>
+  <a href="https://www.github.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="80" height="80"/>
+  </a>
+  </p>
 
-- PROJECT 2 **House Price Prediction**
+## 📊 I have worked on Projets:
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/>
 
-- PROJECT 3 **Exploratory analysis of Geolocation Data**
+- Capstone World Cup 2019 data analysis
 
-- 🌱 I’m currently learning  **AI DEEP LEARNING**
+- House Price Prediction  
 
-- 📫 How to reach me **rachit.chaudhary1616@gmail.com**
-- linkedin - **/rachit-chaudhary-970044299**
+- Exploratory analysis of Geolocation Data  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rachitchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachitchaudhary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/rachit-chaudhary-970044299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rachit-chaudhary-970044299" height="30" width="40
+<br/>
+:mailbox: Reach me out!    
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rachit_Chaudhary-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-chaudhary-970044299) 
+[![Mail Badge](https://img.shields.io/badge/-Rachit_Chaudhary-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Rachit.chaudhary1616@gmail.com)
+
+## 📊 Resume:
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1_ngTGK8VUei-EDLUgxQ0gtDQWD6wTF6r/view?usp=sharing)
+
+
+
+
+
+
