@@ -50,7 +50,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Rachit_Chaudhary-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Rachit.chaudhary1616@gmail.com)
 
 ## 📊 Resume:
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1_ngTGK8VUei-EDLUgxQ0gtDQWD6wTF6r/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1siQIkiYWHhyRjVkiwanMiclZKN5j7wCk/view?usp=sharing)
 
 
 
